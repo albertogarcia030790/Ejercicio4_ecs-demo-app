@@ -1,0 +1,7 @@
+node_modules/
+.local/
+.aws/
+.env
+*.sqlite3
+.viminfo
+
